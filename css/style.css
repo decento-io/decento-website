@@ -1,0 +1,33 @@
+body {
+    font-family: 'Catamaran', sans-serif;
+    color: #fff;
+    background-color: #1f2641;
+    background-image: url(../img/bg-space.png);
+    background-position: 0 20%;
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+}
+
+header a.logo {
+    width: 225px;
+    display: inline-block;
+    padding: 12px 20px;
+}
+
+header a.logo img {
+    width: 100%;
+}
+
+h1, h3 {
+    text-align: center;
+}
+
+h1 {
+    font-size: 5.5em;
+    margin-bottom: 0;
+}
+
+h3 {
+    font-size: 2.5em;
+    margin-top: 0;
+}
